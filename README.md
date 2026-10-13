@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a master's student at the University of Tokyo, studying the physics of financial markets. Alongside my research, I build independent projects in machine learning, financial data analysis, and AI.
+I'm a master's student at the University of Tokyo, and I focus on the physics of financial markets. Alongside my research, I build independent projects in financial modeling.
 
 I share my academic research and independent projects here.
 
