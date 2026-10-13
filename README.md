@@ -15,7 +15,7 @@ I share my academic research and independent projects here.
 
 I study how cryptocurrency prices move together and how these relationships change over time. I use time series analysis and network science to identify patterns in the market and explore ways to build more diversified portfolios.
 
-## Independent Projects
+## Projects
 
 ### [On-chain Risk Intelligence Agent](https://github.com/DINGMINZHAO/onchain-risk-agent)
 
