@@ -2,51 +2,69 @@
 
 **The University of Tokyo | Nonlinear Physics Lab**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2700&pause=1200&color=0969DA&width=550&lines=Physics+of+Financial+Markets;Time+Series+Analysis;Network+Science)
+*On-chain Analytics · Crypto Markets · Quantitative Research · Network Science*
 
 ## About Me
 
-I'm a master's student at the University of Tokyo, studying financial markets through time series analysis and network science.
+I'm a master's student at the University of Tokyo, with a background in statistics and research interests in cryptocurrency markets, complex networks, and time series analysis.
 
-Alongside my research, I build independent projects in quantitative finance, cryptocurrency markets, and applied machine learning. My work covers financial modeling, model validation, portfolio risk, and data-driven decision making.
+I enjoy exploring financial markets through data — from identifying informed traders in prediction markets to understanding liquidity dynamics in decentralized exchanges.
 
-## Research
+My independent projects span **Web3 data science, statistical inference, machine learning, quantitative finance, and financial risk modeling**.
 
-My research focuses on network science and cryptocurrency markets. I study how relationships between cryptocurrencies evolve over time, using time series analysis and complex networks to investigate market structure and portfolio diversification.
+## Featured Research — Web3 & Crypto Markets
 
-I'm also interested in extending these methods to quantitative research and trading applications in digital asset markets.
+### 🎲 [Gambling Apocalypse — Part I: Who Is Actually Smart Money?](https://github.com/DINGMINZHAO/gambling-apocalypse-p1)
 
-## Projects
+A Polymarket research project investigating whether successful wallets possess persistent forecasting skill, whether wallet behavior contains predictive information beyond market probabilities, and when larger bets reveal genuine conviction.
 
-### Crypto Markets and On-chain Analytics
+**569.5M historical trades · 1.17M wallets · Empirical Bayes · Statistical Inference · Deep Learning**
 
-**[Bitcoin Volatility Forecasting](https://github.com/DINGMINZHAO/btc-volatility-forecasting)**
+[Research Report](https://github.com/DINGMINZHAO/gambling-apocalypse-p1/blob/main/reports/Gambling_Apocalypse_Part_I.pdf)
 
-Forecasting hourly Bitcoin volatility using perpetual futures data, HAR-X models, and time-varying parameter estimation with a Kalman filter. Includes out-of-sample forecasting evaluation and statistical model comparisons.
+### 💧 [DEX Trading & Liquidity Intelligence](https://github.com/DINGMINZHAO/dex-trading-liquidity-intelligence)
 
-**[On-chain Risk Intelligence Agent](https://github.com/DINGMINZHAO/onchain-risk-agent)**
+An empirical study of trading activity, execution costs, concentrated liquidity, and fee-tier competition in Uniswap V3. Includes an interactive dashboard and analysis of 92 days of Ethereum on-chain activity.
 
-A Bitcoin transaction investigation system combining machine learning, graph analysis, and an LLM agent. Integrates transaction risk scoring, graph tracing, and evidence-based investigation tools.
+**581K swaps · $7.47B trading volume · Market Microstructure · DeFi Analytics · Streamlit**
 
-### Market Risk and Derivatives
+[Research Report](https://github.com/DINGMINZHAO/dex-trading-liquidity-intelligence/blob/main/reports/q3_research_report.md)
 
-**[Portfolio Risk and Model Validation](https://github.com/DINGMINZHAO/portfolio-risk-validation)**
+### 📈 [Bitcoin Volatility Forecasting](https://github.com/DINGMINZHAO/btc-volatility-forecasting)
 
-An independent evaluation of five portfolio strategies using VaR and Expected Shortfall backtesting, GARCH-based risk models, and historical and hypothetical stress testing.
+Forecasting hourly Bitcoin volatility using perpetual futures data, HAR-X models, and time-varying parameter estimation with a Kalman filter. Includes out-of-sample evaluation and statistical model comparisons.
 
-**[Option Hedging Effectiveness and Residual Risk Analysis](https://github.com/DINGMINZHAO/option-hedging-risk)**
+**Time Series Forecasting · State-Space Models · Kalman Filter · Model Evaluation**
 
-A historical assessment of SPY delta-hedging policies from 2008 to 2025. Compares hedging effectiveness, transaction costs, tail risk, and residual exposures using a custom P&L simulation engine.
+### 🔍 [On-chain Risk Intelligence Agent](https://github.com/DINGMINZHAO/onchain-risk-agent)
 
-### Credit Risk and Portfolio Analytics
+A Bitcoin transaction investigation prototype combining leakage-aware machine learning, graph-based transaction tracing, retrieval-augmented generation, and an LLM agent for evidence-based risk analysis.
 
-**[Credit Portfolio Risk Modeling and Simulation](https://github.com/DINGMINZHAO/credit-portfolio-risk)**
+**Graph Analytics · Machine Learning · LLM Agents · Blockchain Forensics**
 
-An end-to-end mortgage credit risk analysis using Freddie Mac loan-level data. Covers delinquency transition modeling, independent out-of-time validation, loss severity analysis, portfolio loss simulation, and stress testing.
+## Quantitative Finance & Risk Modeling
 
-**[Credit Risk Decision Engine](https://github.com/DINGMINZHAO/credit-risk-decision-engine)**
+### [Portfolio Risk Assessment & Model Validation](https://github.com/DINGMINZHAO/portfolio-risk-validation)
 
-A behavioral credit risk modeling project connecting default probability estimation with risk segmentation, credit policy simulation, expected loss analysis, and portfolio monitoring.
+Independent evaluation of five investment strategies using VaR and Expected Shortfall backtesting, GARCH-based risk models, and historical and hypothetical stress testing.
+
+### [Option Hedging Effectiveness & Residual Risk](https://github.com/DINGMINZHAO/option-hedging-risk)
+
+A historical assessment of SPY delta-hedging policies, incorporating P&L simulation, trading costs, tail-risk analysis, and market stress regimes.
+
+### [Credit Portfolio Risk Modeling & Simulation](https://github.com/DINGMINZHAO/credit-portfolio-risk)
+
+End-to-end mortgage credit risk research using Freddie Mac loan-level data, covering delinquency transition modeling, independent out-of-time validation, loss severity, and portfolio loss simulation.
+
+### [Credit Risk Decision Engine](https://github.com/DINGMINZHAO/credit-risk-decision-engine)
+
+Behavioral default prediction connected to risk segmentation, credit policy simulation, expected loss estimation, and portfolio monitoring.
+
+## Academic Research
+
+My academic research focuses on **network science and cryptocurrency markets**, studying how relationships between digital assets evolve and how complex network structures can inform portfolio construction and diversification.
+
+I'm particularly interested in connecting methods from complex systems, stochastic processes, and statistical learning with financial and blockchain data.
 
 ## Beyond Research
 
