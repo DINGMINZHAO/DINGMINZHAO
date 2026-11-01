@@ -1,8 +1,8 @@
 # Hi, I'm Minzhao 👋
 
-> **I only work on things I genuinely find interesting.**
+> *“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”*
 >
-> Every project here began with a question, an odd pattern, or something I couldn't resist exploring.
+> — **Richard P. Feynman**
 
 I'm a master's student at the University of Tokyo, studying complex networks and financial markets. I like digging into crypto, DeFi, prediction markets, and whatever else catches my curiosity.
 
