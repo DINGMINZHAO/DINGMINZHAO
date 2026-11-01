@@ -1,18 +1,12 @@
 # Hi, I'm Minzhao 👋
 
-**The University of Tokyo | Nonlinear Physics Lab**
+> **I only work on things I genuinely find interesting.**
+>
+> Every project here began with a question, an odd pattern, or something I couldn't resist exploring.
 
-*On-chain Analytics · Crypto Markets · Quantitative Research · Network Science*
+I'm a master's student at the University of Tokyo, studying complex networks and financial markets. I like digging into crypto, DeFi, prediction markets, and whatever else catches my curiosity.
 
-## About Me
-
-I'm a master's student at the University of Tokyo, with a background in statistics and research interests in cryptocurrency markets, complex networks, and time series analysis.
-
-I enjoy exploring financial markets through data — from identifying informed traders in prediction markets to understanding liquidity dynamics in decentralized exchanges.
-
-My independent projects span **Web3 data science, statistical inference, machine learning, quantitative finance, and financial risk modeling**.
-
-## Featured Research — Web3 & Crypto Markets
+## Crypto, DeFi & On-chain Data
 
 ### 🎲 [Gambling Apocalypse — Part I: Who Is Actually Smart Money?](https://github.com/DINGMINZHAO/gambling-apocalypse-p1)
 
@@ -42,7 +36,7 @@ A Bitcoin transaction investigation prototype combining leakage-aware machine le
 
 **Graph Analytics · Machine Learning · LLM Agents · Blockchain Forensics**
 
-## Quantitative Finance & Risk Modeling
+## Quant Finance & Risk
 
 ### [Portfolio Risk Assessment & Model Validation](https://github.com/DINGMINZHAO/portfolio-risk-validation)
 
@@ -60,12 +54,12 @@ End-to-end mortgage credit risk research using Freddie Mac loan-level data, cove
 
 Behavioral default prediction connected to risk segmentation, credit policy simulation, expected loss estimation, and portfolio monitoring.
 
-## Academic Research
+## Research
 
 My academic research focuses on **network science and cryptocurrency markets**, studying how relationships between digital assets evolve and how complex network structures can inform portfolio construction and diversification.
 
 I'm particularly interested in connecting methods from complex systems, stochastic processes, and statistical learning with financial and blockchain data.
 
-## Beyond Research
+## Outside of Research
 
 I enjoy underground metal, especially doom, sludge, and other extreme genres. I also play electric guitar 🎸.
